@@ -1,18 +1,88 @@
-# React + Vite
+📸 Pixabay Clone – React Image Gallery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Pixabay Clone Web App built using React.js and Context API.
+Users can search high-quality images, browse categories, and preview images in a fullscreen modal using the Pixabay API.
 
-Currently, two official plugins are available:
+🚀 Features
+🔍 Search images instantly
+🖼️ Dynamic image gallery
+📂 Category-based filtering
+⚡ Fast API fetching with React Hooks
+🌙 Dark modern UI
+🔥 Hover glow effects
+📱 Fully responsive layout
+🖥️ Fullscreen image modal preview
+🛠️ Tech Stack
+React.js
+Context API
+CSS3
+Pixabay API
+📂 Project Structure
+src/
+│
+├── components/
+│   └── Images.jsx
+│
+├── context/
+│   ├── PixabayContext.jsx
+│   └── PixabayState.jsx
+│
+├── App.jsx
+├── index.css
+└── main.jsx
+⚙️ Installation & Setup
+1️⃣ Clone the repository
+git clone https://github.com/your-username/pixabay-clone.git
+2️⃣ Navigate to project folder
+cd pixabay-clone
+3️⃣ Install dependencies
+npm install
+4️⃣ Start development server
+npm run dev
+🔑 API Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This project uses the official Pixabay API.
 
-## React Compiler
+Get your API key from:
+🌐 https://pixabay.com/api/docs/
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+🎨 UI Highlights
+Gradient Hero Section
+Interactive Category Buttons
+Smooth Image Hover Animations
+Responsive CSS Grid Gallery
+Clean Dark Theme
+📸 Screenshots
 
-Note: This will impact Vite dev & build performances.
+Add your screenshots here
 
-## Expanding the ESLint configuration
+/public/screenshots/home.png
+🧠 Learning Concepts
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project helped in understanding:
+
+React Functional Components
+useState & useEffect Hooks
+Context API for state management
+API fetching using fetch()
+Conditional rendering
+Responsive UI design
+⚠️ Note
+
+This project is made for educational purposes only.
+All images belong to their respective owners from Pixabay.
+
+🌟 Future Improvements
+❤️ Favorite Images Feature
+⬇️ Download Button
+🔄 Infinite Scrolling
+🌐 Pagination
+🎯 Debounced Search
+🧩 Masonry Layout
+👨‍💻 Author
+
+Made with ❤️ by Your Name
+
+📜 License
+
+This project is licensed under the MIT License.
