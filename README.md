@@ -52,11 +52,9 @@ Interactive Category Buttons
 Smooth Image Hover Animations
 Responsive CSS Grid Gallery
 Clean Dark Theme
-📸 Screenshots
 
-Add your screenshots here
 
-/public/screenshots/home.png
+
 🧠 Learning Concepts
 
 This project helped in understanding:
@@ -81,7 +79,7 @@ All images belong to their respective owners from Pixabay.
 🧩 Masonry Layout
 👨‍💻 Author
 
-Made with ❤️ by Your Name
+Made with ❤️ by Rishi kumar
 
 📜 License
 
